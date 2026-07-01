@@ -35,7 +35,7 @@ The infrastructure simulates a medium-sized organization and provides centralize
 
 ## Screenshots
 
-![Active Directory](C:\Users\ss\Documents\Bandicam\Active-Directory.jpg)
+![Active Directory](Images\Active-Directory.jpg)
 ![DHCP]()
 ![DNS]()
 ![Hyper-V]()
