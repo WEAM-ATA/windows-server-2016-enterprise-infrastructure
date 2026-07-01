@@ -17,7 +17,7 @@ Print Server
 Hyper-V
 Hyper-V Replica
 Windows Server Backup
-![Network Topology](Downloads/Topology.png)
+![Topology](Downloads/Topology.png)
 
 Technologies
 Windows Server 2016
