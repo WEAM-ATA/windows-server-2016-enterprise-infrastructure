@@ -19,3 +19,39 @@ Hyper-V Replica
 Windows Server Backup
 ![Network Topology](Downloads/Topology.png)
 
+Technologies
+Windows Server 2016
+Active Directory
+DNS
+DHCP
+IIS
+Hyper-V
+Group Policy
+VMware Workstation
+
+
+Screenshots
+
+![Active Directory](C:\Users\ss\Documents\Bandicam\Active-Directory.jpg)
+![DHCP]()
+![DNS]()
+![Hyper-V]()
+![IIS]()
+
+Documentation
+you can download the file from here ..
+Downloads/Windows-Server-Report.pdf
+
+kills Demonstrated
+Active Directory Administration
+Windows Server Deployment
+Group Policy Management
+DHCP Configuration
+DNS Configuration
+IIS Deployment
+Hyper-V Virtualization
+Backup and Recovery
+Network Security
+
+
+
