@@ -35,10 +35,15 @@ The infrastructure simulates a medium-sized organization and provides centralize
 
 ## Screenshots
 
+### Active Directory 
 ![Active Directory](Images/Active-Directory.jpg)
+### DHCP
 ![DHCP](Images/DHCP.jpg)
+### DNS
 ![DNS](Images/DNS.jpg)
+### Hyper-V
 ![Hyper-V](Images/Hyper-v.jpg)
+### IIS 
 ![IIS](Images/IIS.jpg)
 
 
