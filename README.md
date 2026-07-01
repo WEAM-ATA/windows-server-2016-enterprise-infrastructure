@@ -18,21 +18,22 @@ The infrastructure simulates a medium-sized organization and provides centralize
 - Hyper-V Replica
 - Windows Server Backup
 
-  
-![Topology](link-here)
+
+### Network Topology 
+![Topology]()
 
 ## Technologies
-Windows Server 2016
-Active Directory
-DNS
-DHCP
-IIS
-Hyper-V
-Group Policy
-VMware Workstation
+- Windows Server 2016
+- Active Directory
+- DNS
+- DHCP
+- IIS
+- Hyper-V
+- Group Policy
+- VMware Workstation
 
 
-Screenshots
+## Screenshots
 
 ![Active Directory](C:\Users\ss\Documents\Bandicam\Active-Directory.jpg)
 ![DHCP]()
@@ -40,16 +41,17 @@ Screenshots
 ![Hyper-V]()
 ![IIS]()
 
-Documentation
+
+### Documentation
 you can download the file from here ..
 Downloads/Windows-Server-Report.pdf
 
-kills Demonstrated
-Active Directory Administration
-Windows Server Deployment
-Group Policy Management
-DHCP Configuration
-DNS Configuration
+### skills Demonstrated
+- Active Directory Administration
+- Windows Server Deployment
+- Group Policy Management
+- DHCP Configuration
+- DNS Configuration
 IIS Deployment
 Hyper-V Virtualization
 Backup and Recovery
