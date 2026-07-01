@@ -20,7 +20,7 @@ The infrastructure simulates a medium-sized organization and provides centralize
 
 
 ### Network Topology 
-![Network-Topology](Images\Topology.png)
+![Network-Topology](Images/Topology.png)
 
 ## Technologies
 - Windows Server 2016
@@ -35,7 +35,7 @@ The infrastructure simulates a medium-sized organization and provides centralize
 
 ## Screenshots
 
-![Active Directory](Images\Active-Directory.jpg)
+![Active Directory](Images/Active-Directory.jpg)
 ![DHCP]()
 ![DNS]()
 ![Hyper-V]()
