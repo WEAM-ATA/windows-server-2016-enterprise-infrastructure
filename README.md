@@ -14,10 +14,12 @@ The infrastructure simulates a medium-sized organization and provides centralize
 - IIS Web Server
 - File Server
 - Print Server
-H- yper-V
+- Hyper-V
 - Hyper-V Replica
 - Windows Server Backup
-![Topology](Downloads/Topology.png)
+
+  
+![Topology](link-here)
 
 ## Technologies
 Windows Server 2016
