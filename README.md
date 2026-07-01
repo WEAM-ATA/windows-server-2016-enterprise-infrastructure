@@ -43,8 +43,8 @@ The infrastructure simulates a medium-sized organization and provides centralize
 
 
 ### Documentation
-you can download the file from here ..
-![Documentation](Documentation/Windows-Server-Report.pdf)
+
+[Download the Project Report](Documentation/Windows_Server_Report.pdf)
 
 ### skills Demonstrated
 - Active Directory Administration
