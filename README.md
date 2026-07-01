@@ -36,15 +36,15 @@ The infrastructure simulates a medium-sized organization and provides centralize
 ## Screenshots
 
 ![Active Directory](Images/Active-Directory.jpg)
-![DHCP]()
-![DNS]()
-![Hyper-V]()
-![IIS]()
+![DHCP](Images/DHCP.jpg)
+![DNS](Images/DNS.ipg)
+![Hyper-V](Images/Hyper-v.jpg)
+![IIS](Images/IIS.jpg)
 
 
 ### Documentation
 you can download the file from here ..
-Downloads/Windows-Server-Report.pdf
+Documentation/Windows-Server-Report.pdf
 
 ### skills Demonstrated
 - Active Directory Administration
